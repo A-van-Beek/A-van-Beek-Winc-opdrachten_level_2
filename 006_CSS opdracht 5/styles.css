@@ -1,0 +1,85 @@
+/* set for all elements */
+    *{
+      font-family: Arial, Helvetica}
+
+    body {
+        background-color: #e6ccff;}
+
+/* button formatting */
+.button{
+    background-color: purple;
+    color: white;
+    padding: 10px, 15px
+    border:none;}
+
+.button:hover{
+        background-color: red;}
+
+
+/* link formatting */
+    a{
+        text-decoration: none;
+        color: #660066;
+        font-weight: bold;
+        font-style: italic;}
+
+    a:hover{
+        color: red;}
+
+/* text colors */
+    .txt-purple{
+        color: purple;}
+
+    .txt-red{
+        color: DarkRed;}
+
+/* text styling */
+    .txt-cursive{
+        font-style: italic;}
+
+    .txt-center{
+        text-align: center;}
+
+/* block formats */
+    .stamp {
+        text-align: center;
+        width: 80%;
+        height: 80px;
+        background: #fff url(george.jpg) no-repeat;
+        border: 8px dashed purple;
+        margin: auto;}
+
+    .quote{
+        font: 15px Georgia, serif;}
+
+    .background{
+        background-color: whitesmoke;}
+
+    .head-block{
+      text-align: center;
+      width: 250px;
+      border: 5px solid green;
+      padding: 5px;
+      margin: auto;}
+
+/* contact template */
+.my_form{
+    padding:20px;}
+
+.my_form .form_group{
+    padding-bottom: 15px;}
+
+.my_form label{
+    display: block;}
+
+.my_form input[type="text"]{
+    padding: 8px;
+    width: 100%;}
+
+.block{
+    float: left;
+    width: 33.3%;}
+
+
+
+

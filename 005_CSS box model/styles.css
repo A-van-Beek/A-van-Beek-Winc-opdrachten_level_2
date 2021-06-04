@@ -1,0 +1,37 @@
+*{
+  font-family: Arial;
+  margin: 0;}
+
+body {
+    background-color: #e6ccff;}
+
+h1 {
+    margin: 0px;}
+
+p {
+  /* padding is de ruimte tussen tekst en border */
+  padding-top: 15px;
+  padding-right: 20px;
+  padding-bottom: 25px;
+  padding-left: 30px;
+  /* border is het kader wat je een kleur kan geven */
+  border-top: 15px double green;
+  border-bottom: 5px dotted green;
+  border-right: 5px dashed green;
+  border-left: 5px solid green;
+  border-radius: 20px;
+  /* en de marge tussen beeldschermrand en border*/
+  margin-left: 15px;
+  margin-bottom: 15px;}
+
+div {
+    width: 400px;
+    margin: 0 auto;
+    border: 2px solid green;}
+
+p2{
+    /* hier definitie paragraaf2 */
+    margin-top: 120px;}
+
+li {
+    display: inline;}
